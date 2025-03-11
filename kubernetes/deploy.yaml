@@ -17,7 +17,7 @@ spec:
       containers: 
         - 
           name: "product"
-          image: "usgMetaAcr.azurecr.io/product:latest"
+          image: "wjdtmdcjf199/product:v1"
           ports: 
             - 
               containerPort: 80
